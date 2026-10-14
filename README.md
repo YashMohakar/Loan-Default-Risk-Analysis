@@ -116,7 +116,7 @@ Includes:
 
 ### Branch & Loan Portfolio Performance
 
-![Branch Performance Dashboard]([Screenshots/PowerBI_screenshot_2.jpeg](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_2.jpeg))
+![image alt]([Screenshots/PowerBI_screenshot_2.jpeg](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_2.jpeg))
 
 ### Credit Risk & Default Analysis
 
