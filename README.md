@@ -112,7 +112,7 @@ Includes:
 
 ### Loan Default Risk & Financial Analytics
 
-![image alt](([https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg?raw=true)))
+![image alt](([https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg?raw=true)))](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg))
 
 ### Branch & Loan Portfolio Performance
 
