@@ -110,17 +110,18 @@ Includes:
 
 ## 🖼️ 7. Dashboard Screenshots
 
-### Loan Default Risk & Financial Analytics
 
-![image alt](([https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg?raw=true)))](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_1%20(1).jpeg))
+### 1. Loan Default Risk & Financial Analytics
 
-### Branch & Loan Portfolio Performance
+![Loan Default Risk & Financial Analytics](https://raw.githubusercontent.com/YashMohakar/Loan-Default-Risk-Analysis/main/PowerBI_screenshot_1%20%281%29.jpeg)
 
-![image alt]([Screenshots/PowerBI_screenshot_2.jpeg](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_2.jpeg))
+### 2. Branch & Loan Portfolio Performance
 
-### Credit Risk & Default Analysis
+![Branch & Loan Portfolio Performance](https://raw.githubusercontent.com/YashMohakar/Loan-Default-Risk-Analysis/main/PowerBI_screenshot_2.jpeg)
 
-![Credit Risk Dashboard]([Screenshots/PowerBI_screenshot_3.jpeg](https://github.com/YashMohakar/Loan-Default-Risk-Analysis/blob/main/PowerBI_screenshot_3.jpeg))
+### 3. Credit Risk & Default Analysis
+
+![Credit Risk & Default Analysis](https://raw.githubusercontent.com/YashMohakar/Loan-Default-Risk-Analysis/main/PowerBI_screenshot_3.jpeg)
 
 ## 📈 8. Key Performance Indicators (KPIs)
 
